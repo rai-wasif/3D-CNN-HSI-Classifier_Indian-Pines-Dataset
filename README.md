@@ -21,6 +21,18 @@ This project implements a custom **3D Convolutional Neural Network (3D-CNN)** to
 
 ---
 
+## 📬 Contact
+
+Made with ❤️ by **Muhammad Wasif**  
+🎓 FAST National University, Chiniot-Faisalabad Campus  
+🔗 [LinkedIn](http://www.linkedin.com/in/wasif-yaseen)  
+
+---
+
+## 🔖 Tags
+
+`#ComputerVision` `#DeepLearning` `#Hyperspectral` `#3DCNN` `#PyTorch` `#RemoteSensing` `#IndianPines`
+
 
 
 
